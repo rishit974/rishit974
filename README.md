@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rishit974
+- 👋 Hi, I’m Rishit Mishra
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning DSA and react
 - 📫 How to reach me prathamm29@gmail.com
